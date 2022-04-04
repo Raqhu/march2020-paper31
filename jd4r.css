@@ -1,0 +1,26 @@
+/* Raghuvar Gupta IN168 10A23 */
+body		{
+  background-color:#99ccff
+          }
+h1		{
+  color:red; font-family:"Comic Sans MS",cursive,sans-serif;
+  font-size:24pt;
+  text-align:center
+          }
+h2		{
+  color:red;
+   font-family:"Comic Sans MS",cursive,sans-serif;
+    font-size:18pt;
+    text-align:center
+          }
+h3		{
+    color:red;
+     font-family:"Comic Sans MS",cursive,sans-serif;
+     font-size:14pt;
+     text-align:right
+       }
+table,td,tr {
+  padding:10px;
+  border:2px solid #0000ff;
+  border-collapsse:collapse;
+}
